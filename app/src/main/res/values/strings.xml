@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GooglePlay</string>
+    <string name="item_1">Item 1</string>
+    <string name="center_snap">Center Snap</string>
+    <string name="start_snap">Start Snap</string>
+    <string name="first_row">First Row</string>
+    <string name="second_row">Second Row</string>
+    <string name="third_row">Third Row</string>
+    <string name="fouth_row">Fouth Row</string>
+    <string name="fifth_row">Fifth Row</string>
+</resources>
